@@ -1,2 +1,2 @@
 # projects
-This are just projects i have made.
+This are just homework i have made.
